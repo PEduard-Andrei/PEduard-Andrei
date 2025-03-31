@@ -21,6 +21,7 @@ I am currently a third year Computer Science student passionate for the tech wor
 
 ### 🛠️ My Projects
 
+- [Database-Management-Interface-Project](https://github.com/PEduard-Andrei/Database-Management-Interface-Project)
 
 ### 📊 Stats
 
