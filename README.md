@@ -1,7 +1,7 @@
 # 🏎️ PEduard-Andrei 
 
 
-I am currently a third year Computer Science student passionate for the tech world. All of my coding projects are built from the ground up, from planning to coding. When deciding what to work on next, I usually consider real-life scenarios. I work on these projects so I can learn as much as possible about everything, from code, to linux, theory, etc.
+I am currently studying Computer Science and I have a deep passion for the technology industry. Every coding project I take is created entierly from the scratch, handling everything from planning to implementation. When determining my next Project, I draw my inspiration from real-life applications. These projects serve as my opportunity to acquire a deeper knowledge across various areas, from coding, to linux, theory and more.
 
 ### 🧰 Languages and Tools
 
