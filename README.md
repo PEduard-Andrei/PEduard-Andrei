@@ -26,6 +26,10 @@ I am currently studying Computer Science and I have a deep passion for the techn
 - [Automatic-Blind-Control-System](https://github.com/PEduard-Andrei/Automatic-Blind-Control-System) **[2024]**
 - [Weather-App-Website](https://github.com/PEduard-Andrei/Weather-App-Website) **[2023]**
 
+### 🔜 Working on
+
+- A Python application that uses AI to automatically fill in missing or incomplete sections of images.
+
 ### 📊 Stats
 
 ![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=PEduard-Andrei&show_icons=true&theme=gruvbox)
