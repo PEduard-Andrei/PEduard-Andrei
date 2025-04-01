@@ -22,6 +22,7 @@ I am currently studying Computer Science and I have a deep passion for the techn
 ### 🛠️ My Projects
 
 - [Database-Management-Interface-Project](https://github.com/PEduard-Andrei/Database-Management-Interface-Project)
+- [Weather-App-Website](https://github.com/PEduard-Andrei/Weather-App-Website)
 
 ### 📊 Stats
 
