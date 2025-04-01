@@ -28,7 +28,7 @@ I am currently studying Computer Science and I have a deep passion for the techn
 
 ### 🔜 Working on
 
-- A Python application that uses AI to automatically fill in missing or incomplete sections of images.
+- A Python application that utilizes AI to automatically fill in missing or incomplete sections of images.
 
 ### 📊 Stats
 
